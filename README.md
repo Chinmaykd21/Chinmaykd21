@@ -1,7 +1,7 @@
 # Hi there, I'm Chinmay Kulkarni 👋
 
-![GitHub followers](https://img.shields.io/github/followers/Chinmaykd21?style=social)
-![GitHub stars](https://img.shields.io/github/stars/Chinmaykd21?style=social)
+<!-- ![GitHub followers](https://img.shields.io/github/followers/Chinmaykd21?style=social) -->
+<!-- ![GitHub stars](https://img.shields.io/github/stars/Chinmaykd21?style=social) -->
 
 ## 🚀 About Me
 
