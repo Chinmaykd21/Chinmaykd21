@@ -14,7 +14,7 @@ What drives me, beyond just the technical side, is creating a positive and colla
 In every role, I bring a strong sense of ownership, a commitment to quality, and an eagerness to keep growing and learning. I'm excited about where technology is headed and can't wait to see what’s next in the world of software engineering.
 
 - 🌱 I’m currently learning Next.js.
-- 👯 I’m looking to collaborate on full-stack projects focused on React.js, Prisma ORM, PostgreSQL, Docker, TailwindCSS, Next.js, and GO (Golang).
+- 👯 I’m looking for full-time opportunities on full-stack projects focused on React.js, Prisma ORM, PostgreSQL, Docker, TailwindCSS, Next.js, and GO (Golang).
 - 🤔 I’m looking for help with getting started with Machine Learning.
 - 💬 Ask me about anime, the latest games.
 - 📫 How to reach me: www.linkedin.com/in/chinmaykulkarni21
