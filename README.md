@@ -29,7 +29,7 @@ In every role, I bring a strong sense of ownership, a commitment to quality, and
 
 ## 📈 GitHub Stats
 
-![Chinmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chinmaykd21&show_icons=true&theme=radical)
+![Chinmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chinmaykd21&show_icons=true&theme=radical&hide=contribs,prs,issues)
 
 ## 🔗 Links
 
