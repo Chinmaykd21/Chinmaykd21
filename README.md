@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there, I'm Chinmay Kulkarni 👋
 
-<!--
-**Chinmaykd21/Chinmaykd21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub followers](https://img.shields.io/github/followers/Chinmaykd21?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Chinmaykd21?style=social)
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Software Engineer with over 3 years of experience, passionate about blending innovation with teamwork and continuous learning. A love for tackling challenges has fueled my journey, whether it's refining complex legacy systems, boosting performance, or improving code coverage with tests.
+
+I've been fortunate to work with some amazing teams, especially during my time at SpotOn. There, I honed my skills in React, Node.js, and TypeScript, and built a reputation for being thorough, reliable, and a solid team player. My colleagues often describe me as someone who pays attention to the details and consistently delivers quality work on time. I also enjoy sharing knowledge, learning new things, and jumping into tough tasks proactively.
+
+What drives me, beyond just the technical side, is creating a positive and collaborative work environment. I believe in the power of emotional intelligence in the workplace and think that supporting and uplifting teammates is just as important as hitting technical goals. To me, great products come from great teams, and I always aim to contribute positively to the culture and success of any team I’m part of.
+
+In every role, I bring a strong sense of ownership, a commitment to quality, and an eagerness to keep growing and learning. I'm excited about where technology is headed and can't wait to see what’s next in the world of software engineering.
+
+- 🌱 I’m currently learning Next.js.
+- 👯 I’m looking to collaborate on full-stack projects focused on React.js, Prisma ORM, PostgreSQL, Docker, TailwindCSS, Next.js, and GO (Golang).
+- 🤔 I’m looking for help with getting started with Machine Learning.
+- 💬 Ask me about anime, the latest games.
+- 📫 How to reach me: www.linkedin.com/in/chinmaykulkarni21
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** Javascript, TypeScript, Go, Python (Beginner)
+- **Frameworks:** Next.js, React Testing Library, Jest
+- **Tools:** Git, Docker, CI/CD with GitHub Actions, Chrome Developer Tools, Lighthouse, Jira, Confluence, Figma (Beginner), Prisma ORM, 
+- **Databases:** MongoDB, PostgreSQL (Beginner)
+- **Cloud Services:** AWS (S3, EC2)
+
+## 📈 GitHub Stats
+
+![Chinmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chinmaykd21&show_icons=true&theme=radical)
+
+## 🔗 Links
+
+- [Portfolio](https://chinmay-kulkarni-portfolio.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/chinmaykulkarni21)
+
+## 📊 My Repositories
+
+<!-- Add links to some of your key repositories with a brief description -->
+
+### [Project Name](https://github.com/yourusername/project)
+A brief description of what this project is and why it's important.
+
+### [Another Project](https://github.com/yourusername/anotherproject)
+Another brief description.
