@@ -35,13 +35,3 @@ In every role, I bring a strong sense of ownership, a commitment to quality, and
 
 - [Portfolio](https://chinmay-kulkarni-portfolio.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/chinmaykulkarni21)
-
-## 📊 My Repositories
-
-<!-- Add links to some of your key repositories with a brief description -->
-
-### [Project Name](https://github.com/yourusername/project)
-A brief description of what this project is and why it's important.
-
-### [Another Project](https://github.com/yourusername/anotherproject)
-Another brief description.
